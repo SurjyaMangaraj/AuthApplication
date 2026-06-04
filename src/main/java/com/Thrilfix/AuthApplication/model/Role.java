@@ -7,7 +7,8 @@ import jakarta.persistence.Table;
 import lombok.*;
 
 import java.util.UUID;
-@Getter@Setter
+@Getter
+@Setter
 @AllArgsConstructor@NoArgsConstructor
 @Builder
 @Entity
